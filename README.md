@@ -11,4 +11,4 @@ The free HTML version of the book is available at http://learnpythonthehardway.o
 
 In Terminal run the file by typing:
 
-python ex1.py
+    $python ex1.py
