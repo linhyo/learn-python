@@ -1,7 +1,5 @@
-learn-python
+Learn Python the Hard Way (Zed A. Shaw)
 ============
-
-[Python] This repository is based on 'the 3rd Edition of Learn Python the Hard Way' book by Zed A. Shaw, Writer
 
 Welcome to the 3rd Edition of Learn Python the Hard Way. 
 You can visit the companion site to the book at http://learnpythonthehardway.org/ 
